@@ -25,5 +25,5 @@ int isEmpty();
 
 int main()
 {
-    return 0;
+    
 }
